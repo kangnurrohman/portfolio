@@ -249,7 +249,8 @@ education:
       major: Informatics Engineering
       degree: Associate
       description: |
-        Final Project: Design and Development of an Android-Based Smart Book Checker Application at the Banyuwangi State Polytechnic Library; Advisor: Endi Sailul Haq, M.Cs.
+        Final Project: Design and Development of an Android-Based Smart Book Checker Application at the Banyuwangi State Polytechnic Library
+        Advisor: Endi Sailul Haq, M.Cs.
 
 certificate:
   show: true
