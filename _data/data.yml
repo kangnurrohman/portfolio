@@ -95,16 +95,46 @@ experience:
   description: |
 
   items:
-    - company: Second Company
-      link: "#"
-      tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
+    - company:
+      link: 
+      tags:
+      date: 2021.12 - Present
+      role: Freelance Data Analyst
+      location: Anywhere
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Responsibilities:
+        + **Analyzing** data to identify relevant trends, patterns, and insights according to client needs.
+        + **Collecting, cleaning,** and **managing** data from various sources to ensure accuracy and consistency.
+        + **Developing** and **implementing** analytical models and statistical algorithms to predict outcomes or optimize business processes.
+        + **Compiling** clear and structured analysis reports, accompanied by supporting data visualizations to facilitate understanding and 
+        decision-making.
+        + **Communicating** effectively with clients to understand their needs, provide project updates, and convey analysis results in an 
+        understandable manner.
+        + **Providing** relevant recommendations based on data analysis results to improve business performance or achieve set goals.
+        + **Maintaining** compliance with data privacy regulations and security policies applicable to data management and usage.
+        + **Collaborating** with team members or other stakeholders to identify and resolve issues and achieve project objectives.
+        + **Keeping abreast** of the latest developments in data analysis and related technologies to enhance skills and introduce best practices 
+        in work.
+
+    - company: PLN Icon Plus
+      link: "https://plniconplus.co.id/"
+      tags: Full-time
+      date: 2020.02 - Present
+      role: IT Engineer
+      location: Jember, Indonesia
+      description: |
+        Responsibilities:
+        + **Requirement Analysis:** Understanding the information technology needs of PLN UP3 Jember employees and identifying suitable 
+        solutions.
+        + **System Design:** Designing the architecture of efficient IT systems and infrastructure that aligns with the requirements of PLN UP3 
+        Jember.
+        + **Implementation:** Implementing IT solutions, including the installation of hardware, software, and network configurations.
+        + **Maintenance:** Maintaining and caring for IT systems, including troubleshooting, updates, and disaster recovery.
+        + **Security:** Managing information security by implementing data and system protection measures.
+        + **User Support: Providing technical support to PLN UP3 Jember employees.
+        + **Evaluation of New Technology:** Monitoring the latest technological developments and evaluating how these technologies can be 
+        applied to enhance efficiency and security.
+        + **Problem Solving:** Addressing technical issues and finding effective solutions to ensure smooth operations.
 
     - company: Mandiri Sejahtera Prima
       link:
