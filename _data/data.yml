@@ -167,6 +167,15 @@ project:
         +  We explore how Amazon operates in recommending products to users, analyzing user behavior to improve the shopping experience.
         + Perform sentiment analysis to understand user sentiment towards Amazon products and services.
         + Identify the best performing products based on the best reviews.
+    
+    - name: Bicoin Price Analytics
+      link: "https://www.kaggle.com/code/ainurrohmanbwx/bitcoin-price-analytics"
+      tags: Personal Project
+      date: 2023.09
+      description: |
+        + We explore several interesting aspects, including examining Bitcoin price trends over time, using candlestick analysis for detailed visual insight.
+        + analyzing closing prices using a logarithmic scale, dissecting closing price changes on Y (annual), M (monthly), and Q (quarterly) basis and detailing daily closing price fluctuations.
+        + Through this analysis, we aim to gain a deeper understanding of how Bitcoin has evolved and how this may influence its future trajectory.
 
     - name: Bi-GRU with Attention on Sentiment Analysis
       link: "https://www.kaggle.com/code/ainurrohmanbwx/bi-gru-with-attention-on-sentiment-analysis"
