@@ -83,9 +83,10 @@ profile:
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+    Moh. Ainur Rohman is an IT professional with a master’s degree in informatics, concentrating on data science. With three years of 
+    freelancing experience as a Data Analyst/Science professional, he has successfully delivered various projects. As a graduate of the 
+    Engineering profession, Ainur Rohman brings a unique blend of technical expertise and engineering acumen to his work, making him a 
+    valuable asset at the forefront of technological innovation and data analysis.
 
 experience:
   show: true
