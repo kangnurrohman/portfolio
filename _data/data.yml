@@ -187,50 +187,43 @@ skill:
   order: 4
   title: Skills
   description: |
-    The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
-
-    The skills section can include both hard skills and soft skills. Hard skills are specific technical abilities or knowledge related to a particular job or industry, such as proficiency in programming languages or experience with certain software programs. Soft skills are more general personal traits and abilities, such as communication skills, leadership, problem-solving, or teamwork.
-
-    When crafting your skills section, it's important to tailor it to the specific job you are applying for, and only include skills that are relevant to the position. This can help catch the attention of the hiring manager and demonstrate that you have the qualifications necessary to succeed in the role.
-
-    There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
 
   items:
-    - name: Skill A
-      level: 5
-    - name: Skill B
-      level: 4
-    - name: Skill C
-      level: 3
-    - name: Skill D
-      level: 4
-    - name: Skill E
-      level: 3
-    - name: Skill F
-      level: 1
-    - name: Skill G
-      level: 4
-    - name: Skill H
-      level: 4
-    - name: Skill I
-      level: 3
+    - name:
+      level:
 
   groups:
-    - name: Group A Skills
+    - name: Analytical Skills
       item:
-        - Skill A
-        - Skill B
-        - Skill C
-        - Skill D
-    - name: Group B Skills
+        - Critical Thinking
+        - Problem Solving
+        - Attention to Detail
+        - Domain Knowledge
+        - Curiosity
+        - Business Insight
+    - name: Technical Skills
       item:
-        - Skill E
-        - Skill F
-        - Skill G
-    - name: Group C Skills
+        - Programming Language (Python, R, SQL, DAX)
+        - Data Visualization Tools (Power BI, Tableau, Looker 
+        Studio)
+        - Spreadsheet (Google sheet, Excel)
+        - Slides (Google slides, PowerPoint)
+        - Statistical Analysis (Descriptive, Inferential, 
+        Hypothesis Testing)
+        - Data Wrangling and Cleaning
+        - Machine Learning / Deep Learning
+    - name: Communication Skills
       item:
-        - Skill H
-        - Skill I
+        - English
+        - Public Speaking
+        - Verbal Communication
+        - Collaboration
+        - Storytelling
+        - Reporting
+    - name: Industry-Specific Skills
+      item:
+        - Writing
+        - Research
 
 education:
   show: true
@@ -267,27 +260,14 @@ certificate:
   order: 6
   title: Certificates
   description: |
-    The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
-
-    Certificates can come from a variety of sources, such as online courses, workshops, or professional development programs. Examples of certificates that might be relevant to include on your resume could include certifications in a particular software or technology, industry-specific certifications, or certifications related to a specific skill or area of expertise.
-
-    When including your certificates in your resume, be sure to provide the name of the certification, the institution or organization that issued it, and the date it was issued. You may also want to include a brief description of the skills or knowledge that the certification demonstrates.
-
-    The certificate section of your resume should be tailored to the specific job you are applying for, and should only include certifications that are relevant to the position. By highlighting your certifications, you can demonstrate your commitment to professional development and your expertise in a particular area.
 
   items:
-    - name: Example Certificate One
-      issuer: by Example
-      date: 2020
-      link: "#"
+    - name: Professional Engineer Competency Certificate
+      issuer: The Institution of Engineers Indonesia
+      date: 2023.12 - 2028-12
+      link: 
       description: |
-        It's my Example Certificate One by Example.
-    - name: Example Certificate Two
-      issuer: by Example
-      date: 2020
-      link:
-      description: |
-        It's my Example Certificate Two by Example.
+        
 
 publication:
   show: true
