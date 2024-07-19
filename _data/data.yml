@@ -216,6 +216,7 @@ skill:
         - Slides (Google slides, PowerPoint)
         - Statistical Analysis (Descriptive, Inferential, Hypothesis Testing)
         - Data Wrangling and Cleaning
+        - Machine Learning / Deep Learning
 
 education:
   show: true
