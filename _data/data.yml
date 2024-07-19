@@ -225,16 +225,14 @@ skill:
         - Curiosity
         - Business Insight
     - name: Technical Skills
-      item:
-        - Programming Language (Python, R, SQL, DAX)
-        - Data Visualization Tools (Power BI, Tableau, Looker 
-        Studio)
-        - Spreadsheet (Google sheet, Excel)
-        - Slides (Google slides, PowerPoint)
-        - Statistical Analysis (Descriptive, Inferential, 
-        Hypothesis Testing)
-        - Data Wrangling and Cleaning
-        - Machine Learning / Deep Learning
+      items:
+        - name: Programming Language (Python, R, SQL, DAX) 
+        - name: Data Visualization Tools (Power BI, Tableau, Looker Studio)
+        - name: Spreadsheet (Google sheet, Excel)
+        - name: Slides (Google slides, PowerPoint)
+        - name: Statistical Analysis (Descriptive, Inferential, Hypothesis Testing)
+        - name: Data Wrangling and Cleaning
+        - name: Machine Learning / Deep Learning
 
 education:
   show: true
