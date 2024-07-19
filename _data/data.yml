@@ -159,6 +159,15 @@ project:
   description: |
 
   items:
+  - name: Amazon Customer Analytics
+      link: "https://www.kaggle.com/code/ainurrohmanbwx/amazon-customer-analytics"
+      tags: Personal Project
+      date: 2023.09
+      description: |
+        +  We explore how Amazon operates in recommending products to users, analyzing user behavior to improve the shopping experience.
+        + Perform sentiment analysis to understand user sentiment towards Amazon products and services.
+        + Identify the best performing products based on the best reviews.
+
   - name: Bicoin Price Analytics
       link: "https://www.kaggle.com/code/ainurrohmanbwx/bitcoin-price-analytics"
       tags: Personal Project
