@@ -157,30 +157,35 @@ project:
   order: 3
   title: Projects
   description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
-
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
 
   items:
-    - name: Personal project
-      link: "#"
-      tags:
-      date: 2015 - 2017
+  - name: Bicoin Price Analytics
+      link: "https://www.kaggle.com/code/ainurrohmanbwx/bitcoin-price-analytics"
+      tags: Personal Project
+      date: 2023.09
       description: |
-        Personal project description...
-        + First
-        + Second
+        + We explore several interesting aspects, including examining Bitcoin price trends over time, using candlestick analysis for detailed visual insight.
+        + analyzing closing prices using a logarithmic scale, dissecting closing price changes on Y (annual), M (monthly), and Q (quarterly) basis and detailing daily closing price fluctuations.
+        + Through this analysis, we aim to gain a deeper understanding of how Bitcoin has evolved and how this may influence its future trajectory.
 
-    - name: OSS project
-      link:
-      tags: committer
-      date:
+    - name: Bi-GRU with Attention on Sentiment Analysis
+      link: "https://www.kaggle.com/code/ainurrohmanbwx/bi-gru-with-attention-on-sentiment-analysis"
+      tags: Master Thesis Project
+      date: 2023.03
       description: |
-        OSS project description...
-        + First
-        + Second
+        + Proposed a sentiment analysis method named "glo-att-bigru+word2vec".
+        + Utilizing sentiment analysis on PLN Mobile to measure PLN's success in promoting the PLN Mobile applications.
+        + Identify positive and negative words in PLN Mobile reviews.
+        + Apply a classification algorithm to classify positive and negative sentiments.
+
+    - name: House Price Prediction
+      link: "https://www.kaggle.com/code/ainurrohmanbwx/house-price-prediction-eda-linear-regression"
+      tags: Personal Project
+      date: 2021.12
+      description: |
+        + Identify outlier data.
+        + Testing classical assumptions to test normality, multicollinearity, heteroscedasticity, partial.
+        + Applying regression to model predictions of house prices in Jakarta.
 
 skill:
   show: true
@@ -270,7 +275,7 @@ certificate:
   items:
     - name: Professional Engineer Competency Certificate
       issuer: The Institution of Engineers Indonesia
-      date: 2023.12 - 2028-12
+      date: 2023.12 - 2028.12
       link: 
       description: |
         
