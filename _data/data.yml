@@ -1,9 +1,9 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Moh. Ainur Rohman                      # name
+  title: Data Analyst           # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/profile.png # avatar file path
+    path: /assets/images/profile.jpg # avatar file path
 
 contact:
   # meta
