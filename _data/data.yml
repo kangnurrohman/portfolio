@@ -10,7 +10,7 @@ contact:
   location: Banyuwangi, Indonesia # location
   email: ainurrohman869@gmail.com # email address
   phone: # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: # site URL without schema, like example.com, will automatically prepand "https://"
+  website: kangnurrohman.github.io # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender: # gender or pronoun
   birthday: # birthday
@@ -96,7 +96,7 @@ experience:
 
   items:
     - company: Anyone
-      link: 
+      link:
       tags: Part-time
       date: 2021.12 - Present
       role: Freelance Data Analyst
@@ -167,7 +167,7 @@ project:
         + We explore how Amazon operates in recommending products to users, analyzing user behavior to improve the shopping experience.
         + Perform sentiment analysis to understand user sentiment towards Amazon products and services.
         + Identify the best performing products based on the best reviews.
-    
+
     - name: Bicoin Price Analytics
       link: "https://www.kaggle.com/code/ainurrohmanbwx/bitcoin-price-analytics"
       tags: Personal Project
@@ -217,7 +217,7 @@ skill:
         - Business Insight
     - name: Technical Skills
       item:
-        - Programming Language (Python, R, SQL, DAX) 
+        - Programming Language (Python, R, SQL, DAX)
         - Data Visualization Tools (Power BI, Tableau, Looker Studio)
         - Spreadsheet (Google sheet, Excel)
         - Slides (Google slides, PowerPoint)
@@ -258,14 +258,14 @@ education:
       degree: Master
       description: |
         Master's Thesis: Bidirectional Gated Recurrent Unit with Global Attention on Document-level sentiment analysis; Advisor: Prof. Suhartono
-    
+
     - institution: Muhammadiyah Jember University
       link: "https://unmuhjember.ac.id/"
       date: 2019 - 2020
       major: Informatics Engineering
       degree: Bachelor
       description: |
-         Bachelor's Thesis: Expert System using Euclidean Probability in Koi Fish Disease Diagnosis; Advisor: Deni Arifianto, M.Cs.
+        Bachelor's Thesis: Expert System using Euclidean Probability in Koi Fish Disease Diagnosis; Advisor: Deni Arifianto, M.Cs.
 
     - institution: Banyuwangi State Polytechnic
       link: "https://poliwangi.ac.id/"
@@ -285,9 +285,9 @@ certificate:
     - name: Professional Engineer Competency Certificate
       issuer: The Institution of Engineers Indonesia
       date: 2023.12 - 2028.12
-      link: 
+      link:
       description: |
-        
+
 publication:
   show: true
   order: 7
