@@ -197,7 +197,7 @@ skill:
 
   items:
     - name:
-      level: 
+      level:
 
   groups:
     - name: Analytical Skills
