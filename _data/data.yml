@@ -382,20 +382,6 @@ organization:
       description: |
         It's my Another Example Organization.
 
-    - name: Yet Another Example Organization
-      position: Member
-      date: 2022 - Present
-      link: "#"
-      description: |
-        It's my Yet Another Example Organization.
-  items:
-    - name: Example Awared One
-      awarder: by Example
-      date: 2022
-      link: "#"
-      description: |
-        It's my Example Awared One by Example.
-
 language:
   show: true
   order: 11
