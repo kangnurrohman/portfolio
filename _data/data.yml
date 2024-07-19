@@ -196,7 +196,7 @@ skill:
     There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
 
   items:
-    - name: Skill A
+    - name:
       level: 
 
   groups:
@@ -209,14 +209,13 @@ skill:
         - Curiosity
         - Business Insight
     - name: Technical Skills
-      items:
-        - name: Programming Language (Python, R, SQL, DAX) 
-        - name: Data Visualization Tools (Power BI, Tableau, Looker Studio)
-        - name: Spreadsheet (Google sheet, Excel)
-        - name: Slides (Google slides, PowerPoint)
-        - name: Statistical Analysis (Descriptive, Inferential, Hypothesis Testing)
-        - name: Data Wrangling and Cleaning
-        - name: Machine Learning / Deep Learning
+      item:
+        - Programming Language (Python, R, SQL, DAX) 
+        - Data Visualization Tools (Power BI, Tableau, Looker Studio)
+        - Spreadsheet (Google sheet, Excel)
+        - Slides (Google slides, PowerPoint)
+        - Statistical Analysis (Descriptive, Inferential, Hypothesis Testing)
+        - Data Wrangling and Cleaning
 
 education:
   show: true
