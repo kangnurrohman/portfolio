@@ -243,15 +243,13 @@ education:
         + First
         + Second
 
-    - institution: Example University
-      link:
-      date: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
+    - institution: Banyuwangi State Polytechnic
+      link: "https://poliwangi.ac.id/"
+      date: 2015 - 2018
+      major: Informatics Engineering
+      degree: Associate
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        Final Project: Design and Development of an Android-Based Smart Book Checker Application at the Banyuwangi State Polytechnic Library; Advisor: Endi Sailul Haq, M.Cs.
 
 certificate:
   show: true
