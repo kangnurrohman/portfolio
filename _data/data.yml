@@ -28,7 +28,7 @@ contact:
   threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github:                  # username          | https://github.com/username
+  github: https://github.com/kangnurrohman                 # username          | https://github.com/username
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
@@ -37,6 +37,7 @@ contact:
   codewars:                # username          | https://www.codewars.com/users/username
   codepen:                 # username          | https://codepen.io/username
   tryhackme:               # username          | https://tryhackme.com/p/username
+  kaggle: https://www.kaggle.com/ainurrohmanbwx                 # username          | https://www.kaggle.com/username
 
   # academic
   googlescholar:           # username          | https://scholar.google.com/citations?user=username
