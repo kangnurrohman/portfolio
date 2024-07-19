@@ -216,21 +216,37 @@ skill:
       level: 3
 
   groups:
-    - name: Group A Skills
+    - name: Analytical Skills
       item:
-        - Skill A
-        - Skill B
-        - Skill C
-        - Skill D
-    - name: Group B Skills
+        - Critical Thinking
+        - Problem Solving
+        - Attention to Detail
+        - Domain Knowledge
+        - Curiosity
+        - Business Insight
+    - name: Technical Skills
       item:
-        - Skill E
-        - Skill F
-        - Skill G
-    - name: Group C Skills
+        - Programming Language (Python, R, SQL, DAX)
+        - Data Visualization Tools (Power BI, Tableau, Looker 
+        Studio)
+        - Spreadsheet (Google sheet, Excel)
+        - Slides (Google slides, PowerPoint)
+        - Statistical Analysis (Descriptive, Inferential, 
+        Hypothesis Testing)
+        - Data Wrangling and Cleaning
+        - Machine Learning / Deep Learning
+    - name: Communication Skills
       item:
-        - Skill H
-        - Skill I
+        - English
+        - Public Speaking
+        - Verbal Communication
+        - Collaboration
+        - Storytelling
+        - Reporting
+    - name: Industry-Specific Skills
+      item:
+        - Writing
+        - Research
 
 education:
   show: true
