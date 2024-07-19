@@ -288,28 +288,20 @@ certificate:
       link: 
       description: |
         
-
 publication:
   show: true
   order: 7
   title: Publications
   description: |
-    The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
-
-    Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
-
-    If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
-
-    Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
 
   items:
-    - title: Example Publication in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: "#"
-    - title: The Art of Example Publication
-      authors: Foo Bar
-      conference: Foobar, 2019
+    - title: Bidirectional GRU dengan Attention Mechanism pada Analisis Sentimen PLN Mobile
+      authors: Moh. Ainur Rohman, Suhartono, Totok Chamidy
+      conference: Techno.Com, 2023
+      link: "https://doi.org/10.33633/tc.v22i2.7876"
+    - title:
+      authors:
+      conference:
       link:
 
 award:
@@ -317,25 +309,19 @@ award:
   order: 8
   title: Awards
   description: |
-    The award section in a resume is a dedicated section where you can showcase any awards you have received. This section is particularly relevant for individuals who have received awards for their work in their field, such as employees who have received performance awards or industry-specific awards. In this section, you should list the name of the award, the organization or institution that awarded it, the date it was awarded, and any other relevant details.
-
-    When including your awards on your resume, be sure to focus on the most significant or relevant awards that showcase your skills and expertise. If you have received a long list of awards, you may want to consider including only the most recent or prestigious awards on your resume.
-
-    By highlighting your awards, you can demonstrate your achievements and accomplishments in your field, and can help differentiate yourself from other candidates. However, if you have not received any awards, it is not necessary to include this section in your resume.
 
   items:
-    - name: Example Awared One
-      awarder: by Example
-      date: 2022
-      link: "#"
-      description: |
-        It's my Example Awared One by Example.
-    - name: Example Awared Two
-      awarder: by Example
-      date: 2022
+    - name: Village Development Grant Program
+      awarder: Ministry of Research and Technology of the Republic of Indonesia
+      date: 2016
       link:
       description: |
-        It's my Example Awared Two by Example.
+        Executor of Telunjuk Raung Mangaran Waterfall Tourism Infrastructure Development and ICT Training in Sumber Arum Village, Songgon, Banyuwangi.
+    - name:
+      awarder:
+      date:
+      link:
+      description: |
 
 patent:
   show: false
@@ -368,20 +354,19 @@ organization:
   description: |
 
   items:
-    - name: Example Organization
+    - name: The Institution of Engineers Indonesia
       position: Member
-      date: 2022 - Present
-      link: "#"
+      date: 2023 - Present
+      link: "https://pii.or.id/"
       description: |
-        It's my Example Organization.
+        Become a member of The Institution of Engineers Indonesia
 
-    - name: Another Example Organization
-      position: Member
-      date: 2022 - Present
+    - name: Poliwangi Informatics Engineering Student Association (HMTI)
+      position: Public Relations
+      date: 2016
       link:
       description: |
-        It's my Another Example Organization.
-
+        Coordinate with parties outside campus
 language:
   show: true
   order: 11
