@@ -176,6 +176,13 @@
   </div>
   {%- endif %}
 
+  {%- if contact.kaggle %}
+  <div class="contact-item" title="tryhackme">
+    <i class="icon icon-kaggle"></i>
+    <a href="https://kaggle.com/p/{{ contact.tryhackme }}" target="_blank">{{ contact.tryhackme }}</a>
+  </div>
+  {%- endif %}
+
   {%- if contact.googlescholar %}
   <div class="contact-item" title="google scholar">
     <i class="icon icon-googlescholar"></i>
