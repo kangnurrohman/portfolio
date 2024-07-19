@@ -12,6 +12,43 @@
       {{ organization.description | markdownify }}
     </div>
     {%- endif %}
-  </div>
-</section>
+
+    {%- if organization.items %}
+    <div class="items">
+      {%- for item in organization.items %}
+      <div class="item">
+    
+        {%- if item.name %}
+        <div class="row">
+          <div class="organization-name">
+            {%- if item.link %}
+            <a href="{{ item.link }}">{{ item.name }}</a>
+            {%- else %}
+            <span>{{ item.name }}</span>
+            {%- endif %}
+          </div>
+        </div>
+    
+        <div class="row">
+          <div class="position">
+            <span>{{ item.position }}</span>
+          </div>
+          <div class="date">
+            <span>{{ item.date }}</span>
+          </div>
+        </div>
+    
+        {%- if item.description.size > 0 %}
+        <div class="description markdown">
+          {{ item.description | markdownify }}
+        </div>
+        {%- endif %}
+        {%- endif %}
+    
+      </div>
+      {%- endfor %}
+    </div>
+    {%- endif %}
+    </div>
+  </section>
 {%- endif %}

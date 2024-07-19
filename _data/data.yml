@@ -366,11 +366,35 @@ organization:
   order: 10
   title: Organizations
   description: |
-    The organization section in a resume, specifically for social contexts, is a section where you can showcase any relevant involvement or leadership positions in social, cultural, or community organizations. This section can highlight your commitment to social causes and your ability to work collaboratively with others towards a common goal.
 
-    In this section, you can list the name of the organization, your role and responsibilities, the duration of your involvement, and any significant achievements or accomplishments. You can also mention any skills or qualities you gained from your involvement, such as leadership, teamwork, communication, or problem-solving skills.
+  items:
+    - name: Example Organization
+      position: Member
+      date: 2022 - Present
+      link: "#"
+      description: |
+        It's my Example Organization.
 
-    This section can be especially valuable for candidates seeking positions in the non-profit sector, social work, or community engagement roles, where experience in social or cultural organizations can demonstrate a genuine passion for social causes and a willingness to work collaboratively towards social change. However, it is important to only include organizations that are relevant to the job you are applying for, and avoid listing organizations that may be controversial or potentially offensive.
+    - name: Another Example Organization
+      position: Member
+      date: 2022 - Present
+      link:
+      description: |
+        It's my Another Example Organization.
+
+    - name: Yet Another Example Organization
+      position: Member
+      date: 2022 - Present
+      link: "#"
+      description: |
+        It's my Yet Another Example Organization.
+  items:
+    - name: Example Awared One
+      awarder: by Example
+      date: 2022
+      link: "#"
+      description: |
+        It's my Example Awared One by Example.
 
 language:
   show: true
