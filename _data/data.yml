@@ -224,29 +224,6 @@ skill:
         - Domain Knowledge
         - Curiosity
         - Business Insight
-    - name: Technical Skills
-      item:
-        - Programming Language (Python, R, SQL, DAX)
-        - Data Visualization Tools (Power BI, Tableau, Looker 
-        Studio)
-        - Spreadsheet (Google sheet, Excel)
-        - Slides (Google slides, PowerPoint)
-        - Statistical Analysis (Descriptive, Inferential, 
-        Hypothesis Testing)
-        - Data Wrangling and Cleaning
-        - Machine Learning / Deep Learning
-    - name: Communication Skills
-      item:
-        - English
-        - Public Speaking
-        - Verbal Communication
-        - Collaboration
-        - Storytelling
-        - Reporting
-    - name: Industry-Specific Skills
-      item:
-        - Writing
-        - Research
 
 education:
   show: true
