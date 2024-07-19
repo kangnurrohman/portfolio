@@ -168,14 +168,14 @@ project:
         + First
         + Second
 
-    - name: OSS project
-      link:
-      tags: committer
-      date:
+    - name: House Price Prediction
+      link: "https://www.kaggle.com/code/ainurrohmanbwx/house-price-prediction-eda-linear-regression"
+      tags: Personal Project
+      date: 2021.12
       description: |
-        OSS project description...
-        + First
-        + Second
+        + Identify outlier data.
+        + Testing classical assumptions to test normality, multicollinearity, heteroscedasticity, partial.
+        + Applying regression to model predictions of house prices in Jakarta.
 
 skill:
   show: true
