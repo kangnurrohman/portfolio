@@ -338,7 +338,7 @@ award:
         It's my Example Awared Two by Example.
 
 patent:
-  show: true
+  show: false
   order: 9
   title: Patents
   description: |
@@ -385,7 +385,7 @@ language:
       level: Professional
 
 interest:
-  show: true
+  show: false
   order: 12
   title: Interests
   description: |
@@ -402,7 +402,7 @@ interest:
       link:
 
 evaluation:
-  show: true
+  show: false
   order: 13
   title: Self-evaluation
   description: |
