@@ -95,9 +95,9 @@ experience:
   description: |
 
   items:
-    - company:
+    - company: Anyone
       link: 
-      tags:
+      tags: Part-time
       date: 2021.12 - Present
       role: Freelance Data Analyst
       location: Anywhere
