@@ -1,82 +1,82 @@
 basic:
-  name: Moh. Ainur Rohman                      # name
-  title: Data Analyst           # job title
+  name: Moh. Ainur Rohman # name
+  title: Data Analyst # job title
   avatar:
-    show: true                       # show or hide avatar
+    show: true # show or hide avatar
     path: /assets/images/profile.jpg # avatar file path
 
 contact:
   # meta
   location: Banyuwangi, Indonesia # location
-  email: ainurrohman869@gmail.com    # email address
+  email: ainurrohman869@gmail.com # email address
   phone: # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website:     # site URL without schema, like example.com, will automatically prepand "https://"
+  website: # site URL without schema, like example.com, will automatically prepand "https://"
 
-  gender:                  # gender or pronoun
-  birthday:                # birthday
-  nationality:             # nationality
-  visa:                    # passport visa
-  drivinglicense:          # driving licence
+  gender: # gender or pronoun
+  birthday: # birthday
+  nationality: # nationality
+  visa: # passport visa
+  drivinglicense: # driving licence
 
   # contact
-  wechat:                  # username
-  whatsapp:                # 8611122223333     | https://wa.me/8611122223333
-  telegram:                # username          | https://t.me/username
-  messenger:               # username          | https://m.me/username
-  line:                    # lineid            | https://line.me/R/ti/p/@lineid
-  viber:                   # username          | https://vb.me/username
-  threema:                 # userid            | https://threema.id/userid
+  wechat: # username
+  whatsapp: # 8611122223333     | https://wa.me/8611122223333
+  telegram: # username          | https://t.me/username
+  messenger: # username          | https://m.me/username
+  line: # lineid            | https://line.me/R/ti/p/@lineid
+  viber: # username          | https://vb.me/username
+  threema: # userid            | https://threema.id/userid
 
   # programmer
-  github: kangnurrohman                 # username          | https://github.com/username
-  gitlab:                  # username          | https://gitlab.com/username
-  bitbucket:               # username          | https://bitbucket.com/username
-  stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
-  leetcode:                # username          | https://leetcode.com/username
-  codeforces:              # username          | https://codeforces.com/profile/username
-  codewars:                # username          | https://www.codewars.com/users/username
-  codepen:                 # username          | https://codepen.io/username
-  tryhackme:               # username          | https://tryhackme.com/p/username
+  github: kangnurrohman # username          | https://github.com/username
+  gitlab: # username          | https://gitlab.com/username
+  bitbucket: # username          | https://bitbucket.com/username
+  stackoverflow: # id or id/username | https://stackoverflow.com/users/id/username
+  leetcode: # username          | https://leetcode.com/username
+  codeforces: # username          | https://codeforces.com/profile/username
+  codewars: # username          | https://www.codewars.com/users/username
+  codepen: # username          | https://codepen.io/username
+  tryhackme: # username          | https://tryhackme.com/p/username
 
   # academic
-  googlescholar:           # username          | https://scholar.google.com/citations?user=username
-  researchgate:            # username          | https://www.researchgate.net/profile/username
-  kaggle: ainurrohmanbwx                 # username          | https://www.kaggle.com/username
-  orcid:                   # id                | https://orcid.org/id
-  figshare:                # name/id           | https://figshare.com/authors/name/id
+  googlescholar: # username          | https://scholar.google.com/citations?user=username
+  researchgate: # username          | https://www.researchgate.net/profile/username
+  kaggle: ainurrohmanbwx # username          | https://www.kaggle.com/username
+  orcid: # id                | https://orcid.org/id
+  figshare: # name/id           | https://figshare.com/authors/name/id
 
   # writer
-  devto:                   # username          | https://dev.to/username
-  medium:                  # username          | https://medium.com/@username
-  wordpress:               # username          | https://username.wordpress.com
-  blogger:                 # username          | https://username.blogspot.com
-  wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
+  devto: # username          | https://dev.to/username
+  medium: # username          | https://medium.com/@username
+  wordpress: # username          | https://username.wordpress.com
+  blogger: # username          | https://username.blogspot.com
+  wikipedia: # username          | https://www.wikipedia.org/wiki/User:username
 
   # designer
-  figma:                   # username          | https://www.figma.com/@username
-  behance:                 # username          | https://www.behance.net/username
-  dribble:                 # username          | https://dribbble.com/username
-  artstation:              # username          | https://www.artstation.com/username
+  figma: # username          | https://www.figma.com/@username
+  behance: # username          | https://www.behance.net/username
+  dribble: # username          | https://dribbble.com/username
+  artstation: # username          | https://www.artstation.com/username
 
   # other cv
-  linkedin: kangnurrohman               # username          | https://linkedin.com/in/username
-  indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
-  xing:                    # username          | https://www.xing.com/profile/username
-  fiverr:                  # username          | https://www.fiverr.com/username
-  freelancer:              # username          | https://www.freelancer.com/u/username
+  linkedin: kangnurrohman # username          | https://linkedin.com/in/username
+  indeed: # resumeid          | https://my.indeed.com/p/resumeid
+  xing: # username          | https://www.xing.com/profile/username
+  fiverr: # username          | https://www.fiverr.com/username
+  freelancer: # username          | https://www.freelancer.com/u/username
 
   # social media
-  twitter:                 # username          | https://twitter.com/username
-  mastodon:                # username@server
-  instagram:               # username          | https://instagram.com/username
-  unsplash:                # username          | https://unsplash.com/@username
-  _500px:                  # username          | https://500px.com/p/username
-  youtube:                 # username          | https://www.youtube.com/@username
-  tiktok:                  # username          | https://www.tiktok.com/@username
-  quora:                   # username          | https://www.quora.com/profile/username
-  zhihu:                   # username          | https://www.zhihu.com/people/username
-  goodreads:               # username          | https://www.goodreads.com/user/show/username
-  strava:                  # useid             | https://www.strava.com/athletes/userid
+  twitter: # username          | https://twitter.com/username
+  mastodon: # username@server
+  instagram: # username          | https://instagram.com/username
+  unsplash: # username          | https://unsplash.com/@username
+  _500px: # username          | https://500px.com/p/username
+  youtube: # username          | https://www.youtube.com/@username
+  tiktok: # username          | https://www.tiktok.com/@username
+  quora: # username          | https://www.quora.com/profile/username
+  zhihu: # username          | https://www.zhihu.com/people/username
+  goodreads: # username          | https://www.goodreads.com/user/show/username
+  strava: # useid             | https://www.strava.com/athletes/userid
 
 profile:
   show: true
@@ -93,11 +93,10 @@ experience:
   order: 2
   title: Experiences
   description: |
-    The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
     - company: Second Company
-      link: '#'
+      link: "#"
       tags: Full-time
       date: 2018.03 - 2019.03
       role: Backend Developer
@@ -107,16 +106,21 @@ experience:
         + First
         + Second
 
-    - company: First Company
+    - company: Mandiri Sejahtera Prima
       link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+      tags: Full-time
+      date: 2019.02 - 2020.02
+      role: Network Operation Center
+      location: Jember, Indonesia
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Responsibilities:
+        + **Provide technical support:** provide technical support to users via phone, email, or other instant messaging platforms. In addition 
+        to explaining and helping to overcome technical problems faced by users.
+        + **Analyze the problem:** analyze the technical problems faced by users and find the right solutions to solve those problems.
+        + **Updating software:** Ensuring that the software used by users, such as operating systems, application software, and antivirus is
+        always updated and functioning properly to maintain device security and performance.
+        + **Conduct user training:** Assist new users in understanding how to use new devices and software by providing training on using the 
+        devices and assisting users with related technical issues
 
 project:
   show: true
@@ -131,7 +135,7 @@ project:
 
   items:
     - name: Personal project
-      link: '#'
+      link: "#"
       tags:
       date: 2015 - 2017
       description: |
@@ -209,7 +213,7 @@ education:
 
   items:
     - institution: Example University
-      link: '#'
+      link: "#"
       date: 2015 - 2018
       major: Machine Learning
       degree: Master
@@ -245,7 +249,7 @@ certificate:
     - name: Example Certificate One
       issuer: by Example
       date: 2020
-      link: '#'
+      link: "#"
       description: |
         It's my Example Certificate One by Example.
     - name: Example Certificate Two
@@ -272,7 +276,7 @@ publication:
     - title: Example Publication in Action
       authors: Foo Bar
       conference: Foobar, 2019
-      link: '#'
+      link: "#"
     - title: The Art of Example Publication
       authors: Foo Bar
       conference: Foobar, 2019
@@ -293,7 +297,7 @@ award:
     - name: Example Awared One
       awarder: by Example
       date: 2022
-      link: '#'
+      link: "#"
       description: |
         It's my Example Awared One by Example.
     - name: Example Awared Two
@@ -366,7 +370,7 @@ interest:
 
   items:
     - item: Reading
-      link: '#'
+      link: "#"
     - item: Cooking
       link:
 
@@ -396,7 +400,7 @@ reference:
 
   items:
     - name: Foo One
-      link: '#'
+      link: "#"
       title: Backend Developer
       institution: Second Company
       address: 1234 Example St, XXX, XY 11111
