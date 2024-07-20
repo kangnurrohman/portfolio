@@ -176,6 +176,13 @@
   </div>
   {%- endif %}
 
+    {%- if contact.hackerrank %}
+    <div class="contact-item" title="hackerrank">
+      <i class="fa-brands fa-hackerrank"></i>
+      <a href="https://hackerrank.com/profile/{{ contact.hackerrank }}" target="_blank">{{ contact.hackerrank }}</a>
+    </div>
+    {%- endif %}
+
   {%- if contact.googlescholar %}
   <div class="contact-item" title="google scholar">
     <i class="icon icon-googlescholar"></i>
