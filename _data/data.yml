@@ -163,7 +163,7 @@ project:
     - name: Supply Chain Analytics & Modeling (LightGBM & RNN)
       link: "https://www.kaggle.com/code/ainurrohmanbwx/supply-chain-analytics-modeling-lightgbm-rnn"
       tags: Personal Project
-      date: 2023.10
+      date: "2023.10"
       description: |
         +	Conducted Exploratory Data Analysis, including quality control checks, supply chain risk assessment, inventory optimization using EOQ, customer segmentation, and lead times optimization.
         + Assessed supply chain risks and optimized lead times for improved efficiency.
