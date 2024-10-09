@@ -227,13 +227,16 @@ skill:
         - Business Insight
     - name: Technical Skills
       item:
+        - Statistical Analysis (Descriptive, Inferential, Hypothesis Testing)
         - Programming Language (Python, R, SQL, DAX)
         - Data Visualization Tools (Power BI, Tableau, Looker Studio)
+        - DBMS (MySQL)
+        - Web Application Framework (Streamlit)
         - Spreadsheet (Google sheet, Excel)
         - Slides (Google slides, PowerPoint)
-        - Statistical Analysis (Descriptive, Inferential, Hypothesis Testing)
         - Data Wrangling and Cleaning
         - Machine Learning / Deep Learning
+        - Version Control Tools (Git, Github)
     - name: Communication Skills
       item:
         - English
