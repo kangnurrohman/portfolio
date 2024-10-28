@@ -229,9 +229,10 @@ skill:
       item:
         - Statistical Analysis (Descriptive, Inferential, Hypothesis Testing)
         - Programming Language (Python, R, SQL, DAX)
-        - Data Visualization Tools (Power BI, Tableau, Looker Studio)
+        - Data Visualization (Power BI, Tableau, Looker Studio)
         - DBMS (MySQL)
         - Web Application Framework (Streamlit)
+        - Web Scraping (WebHarvy, Scrapy)
         - Spreadsheet (Google sheet, Excel)
         - Slides (Google slides, PowerPoint)
         - Data Wrangling and Cleaning
