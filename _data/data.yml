@@ -84,10 +84,9 @@ profile:
   order: 1
   title: Profile
   description: |
-    Moh. Ainur Rohman is a Data Analyst with a master’s degree in informatics, concentrating on data science. With three years of 
-    freelancing experience as a Data Analyst/Science professional, he has successfully delivered various projects. As a graduate of the 
-    Engineering profession, Ainur Rohman brings a unique blend of technical expertise and engineering acumen to his work, making him a 
-    valuable asset at the forefront of technological innovation and data analysis.
+    Moh. Ainur Rohman is a Data Analyst with a master’s degree in Informatics, specializing in Data Science.
+    With three years of freelancing experience as a Data Analyst/Data Scientist professional, he has successfully delivered various projects.
+    As a graduate of an Engineering profession program, Ainur Rohman combines technical expertise with engineering acumen, making him a valuable asset at the forefront of technological innovation and data analysis.
 
 experience:
   show: true
