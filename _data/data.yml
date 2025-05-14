@@ -2,7 +2,7 @@ basic:
   name: Moh. Ainur Rohman # name
   title: Data Analyst # job title
   avatar:
-    show: false # show or hide avatar
+    show: true # show or hide avatar
     path: /assets/images/profile.jpg # avatar file path
 
 contact:
