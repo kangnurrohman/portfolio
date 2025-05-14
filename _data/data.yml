@@ -177,7 +177,7 @@ project:
         + Perform sentiment analysis to understand user sentiment towards Amazon products and services.
         + Identify the best performing products based on the best reviews.
 
-    - name: Bicoin Price Analytics
+    - name: Bitcoin Price Analytics
       link: "https://www.kaggle.com/code/ainurrohmanbwx/bitcoin-price-analytics"
       tags: Personal Project
       date: 2023.09
